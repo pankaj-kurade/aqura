@@ -1,0 +1,12 @@
+
+.resident-list {
+    margin-top: 20px;
+  }
+  
+  .resident-item {
+    background-color: #444;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+  
